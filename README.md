@@ -21,3 +21,5 @@
 * [ThermalDepth](https://github.com/unizard/ThermalDepth)
 
 
+## Chat
+ * [Gitter](https://gitter.im/professorXY/Lobby)
