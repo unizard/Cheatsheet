@@ -23,3 +23,10 @@
 
 ## Chat
  * [Gitter](https://gitter.im/professorXY/Lobby)
+
+
+## Special Issue
+- [PR Letter](https://www.journals.elsevier.com/pattern-recognition-letters/call-for-papers), 2017.2
+  Deep Learning for Pattern Recognition 
+- [ITS Transaction](http://sites.ieee.org/itss/files/2016/09/CFP-Robust-Efficient-Vision-Techniques-for-Intelligent-Vehicles-1.pdf), 2017.2
+  Robust-Efficient-Vision-Techniques-for-Intelligent-Vehicles .. deep learning
