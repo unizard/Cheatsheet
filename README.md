@@ -37,3 +37,8 @@
   Deep Learning for Pattern Recognition 
 - [ITS Transaction](http://sites.ieee.org/itss/files/2016/09/CFP-Robust-Efficient-Vision-Techniques-for-Intelligent-Vehicles-1.pdf), 2017.2
   Robust-Efficient-Vision-Techniques-for-Intelligent-Vehicles .. deep learning
+  
+- [TPAMI]()  
+- [IEEE Sensors]()
+
+  
