@@ -22,7 +22,15 @@
 
 ## Chat
  * [Gitter](https://gitter.im/professorXY/Lobby)
+ 
+ * [Reddit-CV](https://www.reddit.com/r/computervision/)
+ * [Reddit-DL](https://www.reddit.com/r/deeplearning/)
+ * [Reddit-ML](https://www.reddit.com/r/MachineLearning/)
+ * [Reddit-Robotics](https://www.reddit.com/r/robotics/)
+ 
+ 
 
+ 
 
 ## Special Issue
 - [PR Letter](https://www.journals.elsevier.com/pattern-recognition-letters/call-for-papers), 2017.2
