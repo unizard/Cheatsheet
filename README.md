@@ -32,8 +32,9 @@
  * [Reddit-Robotics](https://www.reddit.com/r/robotics/)
  
  
-
+## Machine Learning for Newbie
  
+ * [RL](http://hunkim.github.io/ml/)
 
 ## Special Issue
 - [PR Letter](https://www.journals.elsevier.com/pattern-recognition-letters/call-for-papers), 2017.2
