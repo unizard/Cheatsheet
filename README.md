@@ -2,6 +2,9 @@
 ## News
 * [MYRSS](https://feedly.com/)
 
+## Projects
+* [RealGoods](https://github.com/unizard/RealGoods)
+
 ## Docs
 * [RealFeature](https://github.com/unizard/RealFeature)
 * [RealSR](https://github.com/unizard/RealSR)
