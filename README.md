@@ -1,6 +1,7 @@
 
 ## News
 * [MYRSS](https://feedly.com/)
+* [Reddit-arXiv](https://www.reddit.com/user/arXiv_abstract_bot)
 
 ## Projects
 * [RealGoods](https://github.com/unizard/RealGoods)
