@@ -43,4 +43,6 @@
  * [RL](http://hunkim.github.io/ml/)
 
 
-  
+ ## Tools
+ 
+ * Model Visualizer: https://github.com/lutzroeder/Netron
